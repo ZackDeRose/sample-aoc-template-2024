@@ -1,0 +1,8 @@
+{
+  "defaultProject": "aoc",
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "useInferencePlugins": true,
+  "useLegacyCache": true,
+  "plugins": ["./aoc-plugin.ts"],
+  "useDaemonProcess": false
+}
